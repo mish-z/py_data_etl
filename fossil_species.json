@@ -1,0 +1,34 @@
+{
+"id": "001",
+ "type": "Dinosaur",
+ "species":"Brontosaurus",
+ "location": "Bone Cabin Quarry, Wyoming",
+ "Country" : "United States",
+ "dimensions":
+	     { "width":"20 metres",
+               "height":"35 metres"
+	     }
+}
+{
+"id": "002",
+ "type": "Dinosaur",
+ "species":"Stegosaurus",
+ "location": "Nine Mile Quarry, Wyoming",
+ "Country" : "United States",
+ "dimensions":
+	     { "width":"15 metres",
+               "height":"10 metres"
+	     }
+}
+{
+"id": "003",
+ "type": "Plant",
+ "species":"Osmunda cinnamomea fern",
+ "location": "Korsaröd, Sweden",
+ "Country" : "United States",
+ "dimensions":
+	     { "width":"50 centimetres",
+               "height":"84.3 centimetres"
+	     }
+}
+
